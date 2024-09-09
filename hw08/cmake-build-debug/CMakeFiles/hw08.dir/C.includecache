@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw08/shuffle.c
+shuffle.h
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw08/shuffle.h
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw08/shuffle.h
+stdlib.h
+-
+
