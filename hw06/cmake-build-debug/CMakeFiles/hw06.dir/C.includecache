@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mengt/Dropbox/Purdue/2021 fall/ECE 264/hw06/constant.h
+
+C:/Users/mengt/Dropbox/Purdue/2021 fall/ECE 264/hw06/msort.c
+msort.h
+C:/Users/mengt/Dropbox/Purdue/2021 fall/ECE 264/hw06/msort.h
+student.h
+C:/Users/mengt/Dropbox/Purdue/2021 fall/ECE 264/hw06/student.h
+stdio.h
+-
+
+C:/Users/mengt/Dropbox/Purdue/2021 fall/ECE 264/hw06/msort.h
+stdlib.h
+-
+student.h
+C:/Users/mengt/Dropbox/Purdue/2021 fall/ECE 264/hw06/student.h
+
+C:/Users/mengt/Dropbox/Purdue/2021 fall/ECE 264/hw06/student.h
+constant.h
+C:/Users/mengt/Dropbox/Purdue/2021 fall/ECE 264/hw06/constant.h
+stdbool.h
+-
+
