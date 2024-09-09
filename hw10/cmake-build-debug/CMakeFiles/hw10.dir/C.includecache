@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mengt/Dropbox/Purdue/2021 fall/ECE 264/hw10/hw10.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+hw10.h
+C:/Users/mengt/Dropbox/Purdue/2021 fall/ECE 264/hw10/hw10.h
+
+C:/Users/mengt/Dropbox/Purdue/2021 fall/ECE 264/hw10/hw10.h
+stdlib.h
+-
+
