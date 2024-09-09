@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/hw11.c
+stdio.h
+-
+stdlib.h
+-
+maze.h
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/maze.h
+path.h
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/path.h
+solver.h
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/solver.h
+paths.h
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/paths.h
+
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/list.h
+
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/maze.h
+stdbool.h
+-
+
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/path.h
+stdbool.h
+-
+maze.h
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/maze.h
+
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/solver.h
+maze.h
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/maze.h
+list.h
+/Users/tina/Dropbox/Purdue/2021 fall/ECE 264/hw11/list.h
+
